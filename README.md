@@ -52,7 +52,7 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
        
-    ---
+   
 
 ## Requirements
 
